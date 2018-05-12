@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36680'
     url: http://www.gutenberg.org/2009/agents/36680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33829#The-Nightrider-s-Feud
 gutenberg_issued: '2010-10-02'
 gutenberg_type: Text
 identifiers:
