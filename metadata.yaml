@@ -1,0 +1,28 @@
+_repo: The-Nightrider-s-Feud_33829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McConnell, Walter Caruth
+    alias: McConnell, Walter C.
+    birthdate: 1870
+    gutenberg_agent_id: '36680'
+    url: http://www.gutenberg.org/2009/agents/36680
+description: ''
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Tobacco farmers -- Fiction'
+- !lcsh 'Night Riders (Group) -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+title: The Nightriders' Feud
+url: http://www.gutenberg.org/ebooks/33829
